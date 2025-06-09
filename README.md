@@ -1,5 +1,5 @@
 # 🛡️ Cartilha de CyberSecurity – Projeto Final
-> **Autor(a): [SEU NOME AQUI]**  
+> **Autor(a): Cláudio José Rodrigues de Oliveira Junior**  
 > **Curso de Segurança da Informação – Professor Rodrigo Moreira**
 
 ---
